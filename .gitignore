@@ -1,0 +1,6 @@
+# Sub-directories will be created by install script
+
+arachne-pnr/
+icestorm/
+yosys/
+
