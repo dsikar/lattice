@@ -1,0 +1,17 @@
+# tiny.pcf
+# hardware definitions for icestick
+# jcl/othinking/2017-01-31
+
+# 12 MHz clock input
+set_io clk 21
+
+# green led
+set_io green 95
+
+# red leds
+set_io x0 99
+set_io x1 98
+set_io x2 97
+set_io x3 96
+
+# end
