@@ -59,5 +59,11 @@ sudo chmod u+s `which iceprog`
 # Substitute spaces for a tab in makefile line
 #         @echo done
 
-make example/makefile 
+cd example 
+
+make 
+
+# Run on hardware
+
+iceprog tiny.bin
 

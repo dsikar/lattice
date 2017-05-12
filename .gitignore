@@ -4,3 +4,9 @@ arachne-pnr/
 icestorm/
 yosys/
 
+# Files created by compiler
+
+example/*.bin
+example/*.blif
+example/*.txt
+
